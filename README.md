@@ -1,2 +1,2 @@
-# Tine
+# Time
 Time Integration
